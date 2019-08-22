@@ -1,12 +1,12 @@
 # Site settings
-title: DiversifyMicrobiology
-email: diversifymicrobiology@gmail.com
+title: DiversifyCAZymes
+email: diversifycazymes@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-   The website for DiversifyMicrobiology.
+   The website for DiversifyCAZymes.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://DiversifyMicrobiology.github.io" # the base hostname & protocol for your site
-twitter_username: DiversifyMicro
-github_username:  diversifymicrobiology 
+url: "http://DiversifyCAZymes.github.io" # the base hostname & protocol for your site
+twitter_username: DiverseCAZymes
+github_username:  DiversifyCAZymes
 array: []
 
 # Build settings
