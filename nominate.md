@@ -17,5 +17,5 @@ title: Self-Nomination
 [Open Self-Nomination Form in new tab]("https://docs.google.com/forms/d/e/1FAIpQLSdLtiCwA2arDtO2sBf1Y41Q4Xh_ZH8ffNhVXtPLM-cx7wLRZQ/viewform?usp=sf_link")
 
 <figure>
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdLtiCwA2arDtO2sBf1Y41Q4Xh_ZH8ffNhVXtPLM-cx7wLRZQ/viewform?usp=sf_link" width="640" height="4431" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdLtiCwA2arDtO2sBf1Y41Q4Xh_ZH8ffNhVXtPLM-cx7wLRZQ/viewform?embedded=true" width="640" height="4600" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 </figure>
