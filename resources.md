@@ -22,6 +22,7 @@ A single resource cannot cover all CAZyme scientists and all identities those in
 * [500queerscientists.com](http://www.500queerscientists.com/)
 * [500womenscientists.org](https://500womenscientists.org/request-a-scientist)
 * [WRIFO - Women Researchers in Fungi & Oomycetes](http://fungalgenomes.org/blog/wrifo/)
+* [DiversifyPlantSci](https://docs.google.com/spreadsheets/d/1ygduel8h-BSq1irE-guLD-CbFrSHdykHHXFGt5PiW9Y/edit#gid=1813523959)
 
 #### Instructions to make your own Diversify website
 * [DiversifyMicrobiology Read-Me](https://github.com/diversifymicrobiology/DiversifyMicrobiology.github.io)
