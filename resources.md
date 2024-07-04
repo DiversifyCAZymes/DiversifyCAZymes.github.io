@@ -4,7 +4,11 @@ category: resources
 title: Resources
 ---
 
-### Other useful resources:
+### Reading material
+
+...Coming soon...
+
+### Other useful resources
 
 A single list cannot cover all CAZyme scientists and the diverse identities they hold, so we encourage conference planners and recruitment committees to check these other lists of self-nominated diverse scientists.
 
