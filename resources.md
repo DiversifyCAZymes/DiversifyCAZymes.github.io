@@ -4,11 +4,11 @@ category: resources
 title: Resources
 ---
 
-A single resource cannot cover all CAZyme scientists and all identities those individuals might hold so we encourage you to utilize other lists of diverse scientists.
-
 ### Other useful resources:
 
-#### Society Lists
+A single list cannot cover all CAZyme scientists and the diverse identities they hold, so we encourage conference planners and recruitment committees to check these other lists of self-nominated diverse scientists.
+
+#### Society-curated Lists
 * [American Association of Immunologist Women Speakers](https://account.aai.org/cgi-bin/memberdll.dll/OpenPage?WRP=CSOW_speakerSearch.htm)
 * [American Society for Microbiology List of Minority Microbiologists](https://www.asm.org/Articles/Policy/CMIIM-List-of-Minority-Microbiologists)
 
