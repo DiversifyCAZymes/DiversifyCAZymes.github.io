@@ -14,7 +14,7 @@ title: Resources
 * [Diversity in Science Grants from the Biochemical Society](https://www.biochemistry.org/grants-and-awards/grants-and-bursaries/diversity-in-science-grants/)
 * [Diversity, Equity & Inclusion at the ASBMB](https://www.asbmb.org/diversity)
 * [Tokenism is Not Diversity](https://mosaicinmedicine.org/psa-tokenism-is-not-diversity-18042)
-* [Pathways for diversifying and enhancing science advocacy and avooding tokenism](https://www.science.org/doi/10.1126/sciadv.abq4899)
+* [Pathways for diversifying and enhancing science advocacy and avoding tokenism](https://www.science.org/doi/10.1126/sciadv.abq4899)
 
 ### Other useful resources
 
