@@ -25,18 +25,20 @@ A single list cannot cover all CAZyme scientists and the diverse identities they
 * [American Society for Microbiology List of Minority Microbiologists](https://www.asm.org/Articles/Policy/CMIIM-List-of-Minority-Microbiologists)
 
 #### Self-Nominated Lists
-* [Women Virologists](https://docs.google.com/spreadsheets/d/1VECipzok4VBPIvOwbBY8dRsp7_CFw-r7IWcw-eLi__M/edit#gid=889333737)
 * [Expert Women in Microbiology](https://docs.google.com/spreadsheets/d/1xw6W2noEUrpc5AFbLgkBGwR1KHIBnay2M9tT_bHaxqk/edit?usp=sharing)
-* [DiversifyChemistry](http://diversifychemistry.com/)
-* [DiversifyEEB-Ecology and Evolutionary Biology](http://diversifyeeb.com/)
 * [DiversifyMicrobiology](https://diversifymicrobiology.github.io/)
+* [WRIFO - Women Researchers in Fungi & Oomycetes](http://fungalgenomes.org/blog/wrifo/)
+* [DiversifyProteinScience](https://www.diversifyproteinscience.org/)
+* [DiversifyPlantSci](https://docs.google.com/spreadsheets/d/1ygduel8h-BSq1irE-guLD-CbFrSHdykHHXFGt5PiW9Y/edit#gid=1813523959)
+* [Women in Wood Science](https://www.swst.org/wp/careers/women-ambassadors-creating-the-future-of-wood-science/)
+* [DiversifyChemistry](http://diversifychemistry.com/)
+* [Females in Mass Spectrometry](https://femalesinms.com/)
+* [DiversifyEEB-Ecology and Evolutionary Biology](http://diversifyeeb.com/)
 * [DiversifyImmunology](https://diversifyimmunology.github.io/)
+* [Women Virologists](https://docs.google.com/spreadsheets/d/1VECipzok4VBPIvOwbBY8dRsp7_CFw-r7IWcw-eLi__M/edit#gid=889333737)
 * [500queerscientists.com](http://www.500queerscientists.com/)
 * [500womenscientists.org](https://500womenscientists.org/request-a-scientist)
-* [WRIFO - Women Researchers in Fungi & Oomycetes](http://fungalgenomes.org/blog/wrifo/)
-* [DiversifyPlantSci](https://docs.google.com/spreadsheets/d/1ygduel8h-BSq1irE-guLD-CbFrSHdykHHXFGt5PiW9Y/edit#gid=1813523959)
-* [DiversifyProteinScience](https://www.diversifyproteinscience.org/)
-* [Diversify STEM Conferences](https://dscnatl.org/) 
+* [Diversify STEM Conferences](https://dscnatl.org/)
 
 #### Instructions to make your own Diversify website
 * [DiversifyMicrobiology Read-Me](https://github.com/diversifymicrobiology/DiversifyMicrobiology.github.io)
